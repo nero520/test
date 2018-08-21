@@ -7,7 +7,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 /**
- * 服务器端
+ * bio 服务器端
  */
 public class SocketServer {
 

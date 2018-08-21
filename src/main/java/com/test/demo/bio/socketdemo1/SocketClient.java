@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 
 /**
- * 客户端
+ * bio 客户端
  */
 public class SocketClient {
 
