@@ -1,4 +1,4 @@
-package com.test.demo.socketdemo1;
+package com.test.demo.bio.socketdemo1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
